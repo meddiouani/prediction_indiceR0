@@ -40,4 +40,3 @@ webencodings==0.5.1
 Werkzeug==1.0.1
 widgetsnbextension==3.5.1
 fbprophet==0.6
-basemap==1.2.0
